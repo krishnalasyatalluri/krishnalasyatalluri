@@ -2,8 +2,6 @@
 
 🚀 Mern Stack Developer 
 
-💼 Currently working on Technician project
-
 🌐 Passionate about building web applications with the MERN stack, turning ideas into reality.
 
 💡 Constantly learning and exploring new technologies to stay up-to-date with the ever-evolving web development landscape.
